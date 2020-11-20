@@ -11,6 +11,10 @@ to someone once shortened. This script helps to generate link thanks to WhatsApp
 【✔】bash WAchat
 ```
 
+## Screenshot
+
+![Screenshot](https://i.postimg.cc/4dhgqrtr/Screenshot-20201120-070542-Gallery.jpg)
+
 ### Connect with me:
 <a href="https://github.com/Err0r-ICA"><img align="left" alt="codeSTACKr | Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" /></a>
 <a href="https://t.me/kalit3rmux"><img align="left" alt="codeSTACKr | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" /></a>
